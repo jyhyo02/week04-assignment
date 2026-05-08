@@ -110,30 +110,30 @@ gradlew.bat bootRun
 
 ## practice1-hello
 
-<img width="700" alt="hello" src="../photos/1.png">
-<img width="700" alt="hello_suckhyun" src="../photos/2.png">
+<img width="700" alt="hello" src="photos/1.png">
+<img width="700" alt="hello_suckhyun" src="photos/2.png">
 
 ---
 
 ## practice2b-jpa/practice3-dto
 
-<img width="700" alt="post" src="../photos/3.png">
-<img width="700" alt="get1" src="../photos/4.png">
-<img width="700" alt="get2" src="../photos/5.png">
-<img width="700" alt="put" src="../photos/6.png">
-<img width="700" alt="delete" src="../photos/7.png">
+<img width="700" alt="post" src="photos/3.png">
+<img width="700" alt="get1" src="photos/4.png">
+<img width="700" alt="get2" src="photos/5.png">
+<img width="700" alt="put" src="photos/6.png">
+<img width="700" alt="delete" src="photos/7.png">
 
 
 ---
 
 ## practice4-exception
 
-<img width="700" alt="exception" src="../photos/8.png">
+<img width="700" alt="exception" src="photos/8.png">
 
 ---
 
 ## practice5-validation
 
-<img width="700" alt="validation1" src="../photos/9.png">
-<img width="700" alt="validation2" src="../photos/10.png">
-<img width="700" alt="validation3" src="../photos/11.png">
+<img width="700" alt="validation1" src="photos/9.png">
+<img width="700" alt="validation2" src="photos/10.png">
+<img width="700" alt="validation3" src="photos/11.png">
